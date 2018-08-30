@@ -37,7 +37,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    #Aplicações do Vini
+    #Apps da biblioteca
+    'widget_tweaks',
+    #Aplicações do projeto
     'core',
     'tarefas',
 ]
